@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carolilinnimedi00linngoog_0002.png"; bbox 0 0 2673 4547; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 945 1825 2018 2166">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 945 1825 2018 2166">
+     <span class='ocr_line' id='line_1_1' title="bbox 1272 1825 1696 1900; baseline 0.007 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1272 1825 1696 1900; x_wconf 89' lang='lat' dir='ltr'>FARLOW</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 945 1959 2018 2033; baseline 0.001 -1"><span class='ocrx_word' id='word_1_2' title='bbox 945 1959 1528 2033; x_wconf 90' lang='lat' dir='ltr'>REFERENCE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1574 1959 2018 2033; x_wconf 90' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1413 2092 1545 2166; baseline -0.008 0"><span class='ocrx_word' id='word_1_4' title='bbox 1413 2092 1545 2166; x_wconf 92' lang='lat' dir='ltr'>OF</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 899 2226 2071 2302">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 899 2226 2071 2302">
+     <span class='ocr_line' id='line_1_4' title="bbox 899 2226 2071 2302; baseline -0.001 0"><span class='ocrx_word' id='word_1_5' title='bbox 899 2226 1617 2302; x_wconf 87' lang='lat' dir='ltr'>CRYPTOGAMIC</span> <span class='ocrx_word' id='word_1_6' title='bbox 1659 2227 2071 2302; x_wconf 91' lang='lat' dir='ltr'><strong>BOTANY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 747 423 2215 2559">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 747 423 2215 2559">
+     <span class='ocr_line' id='line_1_5' title="bbox 747 423 2215 2559; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 747 423 2215 2559; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
